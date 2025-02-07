@@ -16,7 +16,7 @@ if __name__ == "__main__":
         print("Login successful!")
         
         check_in = "2025-10-01"
-        check_out = "2025-10-05"
+        check_out = "2025-10-03"
         available_rooms = hotel1.search_rooms(check_in, check_out)
 
         if available_rooms:

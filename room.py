@@ -1,4 +1,3 @@
-
 class Room:
     def __init__(self, room_number, price):
         self.room_number = room_number
